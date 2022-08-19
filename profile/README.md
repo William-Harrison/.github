@@ -1,4 +1,2 @@
 # William Harrison
-
-## Repositories
-[archive](https://github.com/william-harrison/archive)
+* [Archive](https://github.com/william-harrison/archive)
