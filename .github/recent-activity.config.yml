@@ -3,9 +3,6 @@ settings:
   commit_msg: "Update Recent Activity"
   max_lines: 10
   readme_file: "profile/README.md"
-  disabled_events:
-    - "push"
-    - "wiki"
   url_text: "{REPO}{ID}"
   date:
     timezone: "GMT+0:00"
