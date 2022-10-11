@@ -1,4 +1,8 @@
 # William Harrison
-* [Archive](https://github.com/william-harrison/archive)
-* [Templates](https://github.com/william-harrison/templates)
-* [Workflows](https://github.com/william-harrison/workflows)
+
+## Recent Activity
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
+<!--RECENT_ACTIVITY:last_update-->
