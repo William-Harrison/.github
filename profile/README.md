@@ -12,9 +12,9 @@
 7. ⬆️ Pushed 1 commit(s) to [William-Harrison/.github](https://github.com/William-Harrison/.github)
 8. ⬆️ Pushed 1 commit(s) to [William-Harrison/.github](https://github.com/William-Harrison/.github)
 9. ⬆️ Pushed 1 commit(s) to [William-Harrison/.github](https://github.com/William-Harrison/.github)
-10. ⬆️ Pushed 1 commit(s) to [William-Harrison/SecLists](https://github.com/William-Harrison/SecLists)
+10. ⬆️ Pushed 1 commit(s) to [William-Harrison/.github](https://github.com/William-Harrison/.github)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-###### Last Updated: 11th October, 2022 @ 10:29am UTC
+###### Last Updated: 11th October, 2022 @ 10:52am UTC
 <!--RECENT_ACTIVITY:last_update_end-->
